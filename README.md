@@ -1,6 +1,6 @@
 # PicturesApp
 
-Pictures app is the app to demo integrating with endpoint using Retrofit and displying all the images in the list format using compose.
+Pictures app is the app to demo integrating with endpoint using Retrofit and displying all the images in the list format using compose. #AndroidBasic
 
 This app demonstrated the use of Retrofit to make REST requests to the web service, kotlinx.serialization to handle the deserialization of the returned JSON to Kotlin data objects, and Coil to load images by URL
 
